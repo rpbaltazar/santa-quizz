@@ -1,3 +1,13 @@
+With this short quizz I'm looking to understand your approach to problem solving and some coding skills.
+If you're comfortable with, please start writing some tests to cover the describe scenarios and finish by providing the solver.
+
+There is no particular language in which I'm expecting you to solve it, so please provide a brief step by step instructions on how to run the solver.
+Please keep in mind that we don't have windows based machines.
+
+Once you've solved the problem please submit a pull request to this repository with your changes.
+
+You can find the input for your problem in the file "input"
+
 ## Part 1
 
 Santa needs help figuring out which strings in his text file are naughty or nice.
